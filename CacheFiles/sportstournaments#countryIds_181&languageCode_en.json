@@ -1,0 +1,1494 @@
+{
+  "tournaments": [
+    {
+      "id": 540,
+      "name": "Estonia Meistriliiga",
+      "translation": "Estonia Meistriliiga",
+      "sportId": 2,
+      "countryId": 38,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 633,
+      "name": "Premier League",
+      "translation": "Premier League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 696,
+      "name": "Indonesia Liga 1",
+      "translation": "Indonesia Liga 1",
+      "sportId": 2,
+      "countryId": 112,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 699,
+      "name": "China Super League",
+      "translation": "China Super League",
+      "sportId": 2,
+      "countryId": 114,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 711,
+      "name": "England Professional Development League",
+      "translation": "England Professional Development League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 714,
+      "name": "Championship",
+      "translation": "Championship",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 13,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 717,
+      "name": "League 1",
+      "translation": "League 1",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 20,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 723,
+      "name": "League 2",
+      "translation": "League 2",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 25,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 1002,
+      "name": "Uzbekistan Super League",
+      "translation": "Uzbekistan Super League",
+      "sportId": 2,
+      "countryId": 156,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 1197,
+      "name": "Lithuania A Lyga",
+      "translation": "Lithuania A Lyga",
+      "sportId": 2,
+      "countryId": 1,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 2952,
+      "name": "USA Major League Soccer",
+      "translation": "USA Major League Soccer",
+      "sportId": 2,
+      "countryId": 14,
+      "preMatch": 14,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 3387,
+      "name": "UEFA Europa League",
+      "translation": "UEFA Europa League",
+      "sportId": 2,
+      "countryId": 17,
+      "preMatch": 16,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 4071,
+      "name": "UEFA Champions League",
+      "translation": "UEFA Champions League",
+      "sportId": 2,
+      "countryId": 17,
+      "preMatch": 17,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 4080,
+      "name": "UEFA Nations League",
+      "translation": "UEFA Nations League",
+      "sportId": 2,
+      "countryId": 18,
+      "preMatch": 35,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 5373,
+      "name": "International Friendlies",
+      "translation": "International Friendlies",
+      "sportId": 2,
+      "countryId": 18,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 5787,
+      "name": "FIFA World Cup",
+      "translation": "FIFA World Cup",
+      "sportId": 2,
+      "countryId": 18,
+      "preMatch": 45,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 5946,
+      "name": "South Africa Premier Division",
+      "translation": "South Africa Premier Division",
+      "sportId": 2,
+      "countryId": 19,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6102,
+      "name": "Mexico Liga de Expansión MX",
+      "translation": "Mexico Liga de Expansión MX",
+      "sportId": 2,
+      "countryId": 20,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6138,
+      "name": "Mexico Liga MX",
+      "translation": "Mexico Liga MX",
+      "sportId": 2,
+      "countryId": 20,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6141,
+      "name": "Italy Serie B",
+      "translation": "Italy Serie B",
+      "sportId": 2,
+      "countryId": 21,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6234,
+      "name": "Italy Serie A",
+      "translation": "Italy Serie A",
+      "sportId": 2,
+      "countryId": 21,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6666,
+      "name": "Italy Serie C Group A",
+      "translation": "Italy Serie C Group A",
+      "sportId": 2,
+      "countryId": 21,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6672,
+      "name": "Italy Serie C Group B",
+      "translation": "Italy Serie C Group B",
+      "sportId": 2,
+      "countryId": 21,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 6723,
+      "name": "Italy Serie C Group C",
+      "translation": "Italy Serie C Group C",
+      "sportId": 2,
+      "countryId": 21,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7461,
+      "name": "EFL Cup",
+      "translation": "EFL Cup",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7470,
+      "name": "FA Cup",
+      "translation": "FA Cup",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 23,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7473,
+      "name": "EFL Trophy",
+      "translation": "EFL Trophy",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 22,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7689,
+      "name": "England FA Women's Super League",
+      "translation": "England FA Women's Super League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7719,
+      "name": "England Premier League 2 Division 1",
+      "translation": "England Premier League 2 Division 1",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7878,
+      "name": "National League",
+      "translation": "National League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 12,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7893,
+      "name": "Scotland Championship",
+      "translation": "Scotland Championship",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7980,
+      "name": "Scotland FA Cup",
+      "translation": "Scotland FA Cup",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7983,
+      "name": "Scotland League Cup",
+      "translation": "Scotland League Cup",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 7986,
+      "name": "Scotland League 1",
+      "translation": "Scotland League 1",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 8064,
+      "name": "Scotland League 2",
+      "translation": "Scotland League 2",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 8073,
+      "name": "Scotland Premiership",
+      "translation": "Scotland Premiership",
+      "sportId": 2,
+      "countryId": 32,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 8103,
+      "name": "Wales Cymru Premier",
+      "translation": "Wales Cymru Premier",
+      "sportId": 2,
+      "countryId": 33,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 8343,
+      "name": "Austria Bundesliga",
+      "translation": "Austria Bundesliga",
+      "sportId": 2,
+      "countryId": 39,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9018,
+      "name": "Belgium First Division B",
+      "translation": "Belgium First Division B",
+      "sportId": 2,
+      "countryId": 43,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9036,
+      "name": "Belgium First Division A",
+      "translation": "Belgium First Division A",
+      "sportId": 2,
+      "countryId": 43,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9171,
+      "name": "Bulgaria First Division",
+      "translation": "Bulgaria First Division",
+      "sportId": 2,
+      "countryId": 44,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9225,
+      "name": "Bosnia-Herzegovina Premier Liga",
+      "translation": "Bosnia-Herzegovina Premier Liga",
+      "sportId": 2,
+      "countryId": 45,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9297,
+      "name": "Hungary Cup",
+      "translation": "Hungary Cup",
+      "sportId": 2,
+      "countryId": 46,
+      "preMatch": 12,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9363,
+      "name": "Germany 3.Liga",
+      "translation": "Germany 3.Liga",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9408,
+      "name": "Germany Bundesliga",
+      "translation": "Germany Bundesliga",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9777,
+      "name": "Germany Regionalliga Nord",
+      "translation": "Germany Regionalliga Nord",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9783,
+      "name": "Germany Regionalliga West",
+      "translation": "Germany Regionalliga West",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9849,
+      "name": "Germany Regionalliga Nordost",
+      "translation": "Germany Regionalliga Nordost",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9852,
+      "name": "Germany Regionalliga Bayern",
+      "translation": "Germany Regionalliga Bayern",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9855,
+      "name": "Germany Regionalliga Südwest",
+      "translation": "Germany Regionalliga Südwest",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 9966,
+      "name": "Germany 2.Bundesliga",
+      "translation": "Germany 2.Bundesliga",
+      "sportId": 2,
+      "countryId": 47,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10098,
+      "name": "Greece Super League",
+      "translation": "Greece Super League",
+      "sportId": 2,
+      "countryId": 48,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10251,
+      "name": "Denmark 1st Division",
+      "translation": "Denmark 1st Division",
+      "sportId": 2,
+      "countryId": 49,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10494,
+      "name": "Denmark Superliga",
+      "translation": "Denmark Superliga",
+      "sportId": 2,
+      "countryId": 49,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10560,
+      "name": "Iceland 1. deild karla",
+      "translation": "Iceland 1. deild karla",
+      "sportId": 2,
+      "countryId": 50,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10626,
+      "name": "Iceland Besta deild karla",
+      "translation": "Iceland Besta deild karla",
+      "sportId": 2,
+      "countryId": 50,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 10695,
+      "name": "Spain La Liga",
+      "translation": "Spain La Liga",
+      "sportId": 2,
+      "countryId": 51,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 11106,
+      "name": "Spain Segunda Division",
+      "translation": "Spain Segunda Division",
+      "sportId": 2,
+      "countryId": 51,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 11142,
+      "name": "North Macedonia 1.League",
+      "translation": "North Macedonia 1.League",
+      "sportId": 2,
+      "countryId": 52,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 11487,
+      "name": "Netherlands Eredivisie",
+      "translation": "Netherlands Eredivisie",
+      "sportId": 2,
+      "countryId": 56,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 11556,
+      "name": "Norway First Division",
+      "translation": "Norway First Division",
+      "sportId": 2,
+      "countryId": 57,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 11982,
+      "name": "Poland Ekstraklasa",
+      "translation": "Poland Ekstraklasa",
+      "sportId": 2,
+      "countryId": 58,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 12129,
+      "name": "Portugal Liga 2",
+      "translation": "Portugal Liga 2",
+      "sportId": 2,
+      "countryId": 59,
+      "preMatch": 7,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 12318,
+      "name": "Portugal Primeira Liga",
+      "translation": "Portugal Primeira Liga",
+      "sportId": 2,
+      "countryId": 59,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 12459,
+      "name": "Romania Liga I",
+      "translation": "Romania Liga I",
+      "sportId": 2,
+      "countryId": 60,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 12627,
+      "name": "Montenegro First League",
+      "translation": "Montenegro First League",
+      "sportId": 2,
+      "countryId": 62,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 12747,
+      "name": "Slovakia 2. Liga",
+      "translation": "Slovakia 2. Liga",
+      "sportId": 2,
+      "countryId": 63,
+      "preMatch": 5,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 12777,
+      "name": "Slovakia Super Liga",
+      "translation": "Slovakia Super Liga",
+      "sportId": 2,
+      "countryId": 63,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 12783,
+      "name": "Slovakia 1 Liga Women",
+      "translation": "Slovakia 1 Liga Women",
+      "sportId": 2,
+      "countryId": 63,
+      "preMatch": 0,
+      "live": 3,
+      "meetingDate": null
+    },
+    {
+      "id": 12879,
+      "name": "Slovenia Prva Liga",
+      "translation": "Slovenia Prva Liga",
+      "sportId": 2,
+      "countryId": 64,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13113,
+      "name": "Finland Ykkönen",
+      "translation": "Finland Ykkönen",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13116,
+      "name": "Finland Kakkonen Group A",
+      "translation": "Finland Kakkonen Group A",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13119,
+      "name": "Finland Kakkonen Group B",
+      "translation": "Finland Kakkonen Group B",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13122,
+      "name": "Finland Kakkonen Group C",
+      "translation": "Finland Kakkonen Group C",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13224,
+      "name": "Finland Cup",
+      "translation": "Finland Cup",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13230,
+      "name": "Finland Veikkausliiga",
+      "translation": "Finland Veikkausliiga",
+      "sportId": 2,
+      "countryId": 66,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13737,
+      "name": "France Ligue 2",
+      "translation": "France Ligue 2",
+      "sportId": 2,
+      "countryId": 67,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13755,
+      "name": "France Ligue National",
+      "translation": "France Ligue National",
+      "sportId": 2,
+      "countryId": 67,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13761,
+      "name": "France Ligue 1",
+      "translation": "France Ligue 1",
+      "sportId": 2,
+      "countryId": 67,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13860,
+      "name": "Croatia 1. HNL Juniori",
+      "translation": "Croatia 1. HNL Juniori",
+      "sportId": 2,
+      "countryId": 68,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 13872,
+      "name": "Croatia Prva HNL",
+      "translation": "Croatia Prva HNL",
+      "sportId": 2,
+      "countryId": 68,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 13887,
+      "name": "Croatia Druga HNL",
+      "translation": "Croatia Druga HNL",
+      "sportId": 2,
+      "countryId": 68,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14052,
+      "name": "Czech Republic National Football League",
+      "translation": "Czech Republic National Football League",
+      "sportId": 2,
+      "countryId": 69,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14076,
+      "name": "Czech Republic U19 League",
+      "translation": "Czech Republic U19 League",
+      "sportId": 2,
+      "countryId": 69,
+      "preMatch": 0,
+      "live": 2,
+      "meetingDate": null
+    },
+    {
+      "id": 14088,
+      "name": "Czech Republic First League",
+      "translation": "Czech Republic First League",
+      "sportId": 2,
+      "countryId": 69,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14268,
+      "name": "Switzerland Schweizer Pokal",
+      "translation": "Switzerland Schweizer Pokal",
+      "sportId": 2,
+      "countryId": 70,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14307,
+      "name": "Sweden Allsvenskan",
+      "translation": "Sweden Allsvenskan",
+      "sportId": 2,
+      "countryId": 71,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14316,
+      "name": "Sweden Hockeyligan",
+      "translation": "Sweden Hockeyligan",
+      "sportId": 4,
+      "countryId": 71,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14469,
+      "name": "Sweden Superettan",
+      "translation": "Sweden Superettan",
+      "sportId": 2,
+      "countryId": 71,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 14475,
+      "name": "Sweden Division 1 Norra",
+      "translation": "Sweden Division 1 Norra",
+      "sportId": 2,
+      "countryId": 71,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 16074,
+      "name": "Costa Rica Primera Division",
+      "translation": "Costa Rica Primera Division",
+      "sportId": 2,
+      "countryId": 85,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 16512,
+      "name": "Argentina Primera B Metropolitana",
+      "translation": "Argentina Primera B Metropolitana",
+      "sportId": 2,
+      "countryId": 93,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 16530,
+      "name": "Argentina Primera División",
+      "translation": "Argentina Primera División",
+      "sportId": 2,
+      "countryId": 93,
+      "preMatch": 14,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 16557,
+      "name": "Bolivia Primera Division",
+      "translation": "Bolivia Primera Division",
+      "sportId": 2,
+      "countryId": 94,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 16953,
+      "name": "Brazil Serie B",
+      "translation": "Brazil Serie B",
+      "sportId": 2,
+      "countryId": 95,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17226,
+      "name": "Venezuela Primera Division",
+      "translation": "Venezuela Primera Division",
+      "sportId": 2,
+      "countryId": 96,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17397,
+      "name": "Ecuador Serie A",
+      "translation": "Ecuador Serie A",
+      "sportId": 2,
+      "countryId": 98,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17535,
+      "name": "Colombia Categoría Primera A",
+      "translation": "Colombia Categoría Primera A",
+      "sportId": 2,
+      "countryId": 100,
+      "preMatch": 16,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17559,
+      "name": "Paraguay Primera Division",
+      "translation": "Paraguay Primera Division",
+      "sportId": 2,
+      "countryId": 101,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17724,
+      "name": "Uruguay Primera División",
+      "translation": "Uruguay Primera División",
+      "sportId": 2,
+      "countryId": 104,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17742,
+      "name": "Azerbaijan Premier League",
+      "translation": "Azerbaijan Premier League",
+      "sportId": 2,
+      "countryId": 105,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 17769,
+      "name": "Armenia Premier League",
+      "translation": "Armenia Premier League",
+      "sportId": 2,
+      "countryId": 106,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 18543,
+      "name": "Israel Premier League",
+      "translation": "Israel Premier League",
+      "sportId": 2,
+      "countryId": 111,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 19035,
+      "name": "Japan J1 League",
+      "translation": "Japan J1 League",
+      "sportId": 2,
+      "countryId": 113,
+      "preMatch": 3,
+      "live": 5,
+      "meetingDate": null
+    },
+    {
+      "id": 19041,
+      "name": "Japan J. League Cup",
+      "translation": "Japan J. League Cup",
+      "sportId": 2,
+      "countryId": 113,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 19044,
+      "name": "Japan J2 League",
+      "translation": "Japan J2 League",
+      "sportId": 2,
+      "countryId": 113,
+      "preMatch": 13,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 19047,
+      "name": "Japan J3 League",
+      "translation": "Japan J3 League",
+      "sportId": 2,
+      "countryId": 113,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 19065,
+      "name": "Japan Football League",
+      "translation": "Japan Football League",
+      "sportId": 2,
+      "countryId": 113,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 19950,
+      "name": "South Korea K3 League",
+      "translation": "South Korea K3 League",
+      "sportId": 2,
+      "countryId": 115,
+      "preMatch": 0,
+      "live": 2,
+      "meetingDate": null
+    },
+    {
+      "id": 19983,
+      "name": "Georgia Erovnuli Liga",
+      "translation": "Georgia Erovnuli Liga",
+      "sportId": 2,
+      "countryId": 117,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 20211,
+      "name": "Cyprus First League",
+      "translation": "Cyprus First League",
+      "sportId": 2,
+      "countryId": 119,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 20547,
+      "name": "Malaysia Premier League",
+      "translation": "Malaysia Premier League",
+      "sportId": 2,
+      "countryId": 122,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 20550,
+      "name": "Turkey Super Lig",
+      "translation": "Turkey Super Lig",
+      "sportId": 2,
+      "countryId": 123,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 20772,
+      "name": "Turkey 1. Lig",
+      "translation": "Turkey 1. Lig",
+      "sportId": 2,
+      "countryId": 123,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 21243,
+      "name": "Thailand League 1",
+      "translation": "Thailand League 1",
+      "sportId": 2,
+      "countryId": 125,
+      "preMatch": 7,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 21537,
+      "name": "Algeria Ligue Professionnelle 1",
+      "translation": "Algeria Ligue Professionnelle 1",
+      "sportId": 2,
+      "countryId": 131,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 21771,
+      "name": "Morocco Botola",
+      "translation": "Morocco Botola",
+      "sportId": 2,
+      "countryId": 145,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 22290,
+      "name": "Faroe Islands Premier League",
+      "translation": "Faroe Islands Premier League",
+      "sportId": 2,
+      "countryId": 169,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 22967,
+      "name": "Netherlands Eerste Divisie",
+      "translation": "Netherlands Eerste Divisie",
+      "sportId": 2,
+      "countryId": 56,
+      "preMatch": 5,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 27288,
+      "name": "Republic of Ireland Airtricity League Premier Division",
+      "translation": "Republic of Ireland Airtricity League Premier Division",
+      "sportId": 2,
+      "countryId": 35,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 28207,
+      "name": "Argentina Primera Nacional",
+      "translation": "Argentina Primera Nacional",
+      "sportId": 2,
+      "countryId": 93,
+      "preMatch": 17,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 28228,
+      "name": "Serbia SuperLiga",
+      "translation": "Serbia SuperLiga",
+      "sportId": 2,
+      "countryId": 61,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 28429,
+      "name": "South Korea K-League 1",
+      "translation": "South Korea K-League 1",
+      "sportId": 2,
+      "countryId": 115,
+      "preMatch": 6,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 28564,
+      "name": "Austria 2. Liga",
+      "translation": "Austria 2. Liga",
+      "sportId": 2,
+      "countryId": 39,
+      "preMatch": 3,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 28705,
+      "name": "South Korea K-League 2",
+      "translation": "South Korea K-League 2",
+      "sportId": 2,
+      "countryId": 115,
+      "preMatch": 3,
+      "live": 2,
+      "meetingDate": null
+    },
+    {
+      "id": 29440,
+      "name": "US Major League Baseball",
+      "translation": "US Major League Baseball",
+      "sportId": 6,
+      "countryId": 14,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 29788,
+      "name": "Republic of Ireland FAI Cup",
+      "translation": "Republic of Ireland FAI Cup",
+      "sportId": 2,
+      "countryId": 35,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 30220,
+      "name": "Brazil Serie A",
+      "translation": "Brazil Serie A",
+      "sportId": 2,
+      "countryId": 95,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 30418,
+      "name": "Australia National Premier League Northern NSW",
+      "translation": "Australia National Premier League Northern NSW",
+      "sportId": 2,
+      "countryId": 72,
+      "preMatch": 1,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 30424,
+      "name": "Canada Premier League",
+      "translation": "Canada Premier League",
+      "sportId": 2,
+      "countryId": 15,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 30430,
+      "name": "USA USL Championship",
+      "translation": "USA USL Championship",
+      "sportId": 2,
+      "countryId": 14,
+      "preMatch": 10,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 30436,
+      "name": "USA USL League One",
+      "translation": "USA USL League One",
+      "sportId": 2,
+      "countryId": 14,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 31372,
+      "name": "Peru Liga 1",
+      "translation": "Peru Liga 1",
+      "sportId": 2,
+      "countryId": 102,
+      "preMatch": 9,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 33385,
+      "name": "Norway Eliteserien",
+      "translation": "Norway Eliteserien",
+      "sportId": 2,
+      "countryId": 57,
+      "preMatch": 8,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 33916,
+      "name": "Northern Ireland NIFL Premiership",
+      "translation": "Northern Ireland NIFL Premiership",
+      "sportId": 2,
+      "countryId": 34,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 70993,
+      "name": "UEFA Europa Conference League",
+      "translation": "UEFA Europa Conference League",
+      "sportId": 2,
+      "countryId": 17,
+      "preMatch": 16,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 129618,
+      "name": "England Isthmian League",
+      "translation": "England Isthmian League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 2,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 129621,
+      "name": "England Northern Premier League",
+      "translation": "England Northern Premier League",
+      "sportId": 2,
+      "countryId": 31,
+      "preMatch": 4,
+      "live": 0,
+      "meetingDate": null
+    },
+    {
+      "id": 130041,
+      "name": "Czech Republic CFL Group A",
+      "translation": "Czech Republic CFL Group A",
+      "sportId": 2,
+      "countryId": 69,
+      "preMatch": 0,
+      "live": 2,
+      "meetingDate": null
+    },
+    {
+      "id": 130044,
+      "name": "Czech Republic CFL Group B",
+      "translation": "Czech Republic CFL Group B",
+      "sportId": 2,
+      "countryId": 69,
+      "preMatch": 0,
+      "live": 2,
+      "meetingDate": null
+    },
+    {
+      "id": 130074,
+      "name": "Sweden Division 2 Norrland",
+      "translation": "Sweden Division 2 Norrland",
+      "sportId": 2,
+      "countryId": 71,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 130323,
+      "name": "Polish League U19",
+      "translation": "Polish League U19",
+      "sportId": 2,
+      "countryId": 58,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 131409,
+      "name": "India Shillong Premier League",
+      "translation": "India Shillong Premier League",
+      "sportId": 2,
+      "countryId": 108,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 135363,
+      "name": "Australia Football Queensland Premier League Women",
+      "translation": "Australia Football Queensland Premier League Women",
+      "sportId": 2,
+      "countryId": 72,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 135366,
+      "name": "Australia National Premier League Capital Women",
+      "translation": "Australia National Premier League Capital Women",
+      "sportId": 2,
+      "countryId": 72,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 135372,
+      "name": "Australia National Premier League Queensland Women",
+      "translation": "Australia National Premier League Queensland Women",
+      "sportId": 2,
+      "countryId": 72,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 136520,
+      "name": "Taiwan Mulan Football League Women",
+      "translation": "Taiwan Mulan Football League Women",
+      "sportId": 2,
+      "countryId": 18,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 136880,
+      "name": "Israel Liga Leumit South U19",
+      "translation": "Israel Liga Leumit South U19",
+      "sportId": 2,
+      "countryId": 111,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    },
+    {
+      "id": 138078,
+      "name": "India AMFA Cup",
+      "translation": "India AMFA Cup",
+      "sportId": 2,
+      "countryId": 108,
+      "preMatch": 0,
+      "live": 1,
+      "meetingDate": null
+    }
+  ]
+}
