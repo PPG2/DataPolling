@@ -1,0 +1,47 @@
+{
+  "markets": {
+    "341698": [
+      {
+        "eventId": 341698,
+        "marketId": "341698.null:606100.null",
+        "marketName": "Winner",
+        "marketTranslation": "Winner",
+        "eachWay": {
+          "numerator": 1,
+          "denominator": 4,
+          "places": 2,
+          "enabled": true
+        },
+        "selections": [
+          {
+            "id": 33070288,
+            "decimal": "2.35",
+            "fraction": "1.35/1",
+            "american": "135",
+            "frozen": false,
+            "selectionName": "AutoRacer11_20200417144648744",
+            "selectionName2": "",
+            "selectionNameTranslation": "AutoRacer11_20200417144648744",
+            "selectionNameTranslation2": "",
+            "numerator": 27,
+            "denominator": 20,
+            "additionalValue": null,
+            "eachWay": {
+              "denominator": 4,
+              "numerator": 1,
+              "places": 2,
+              "enabled": true
+            },
+            "racingInfo": {
+              "allowBog": false,
+              "allowSP": true,
+              "onlySP": false,
+              "priceType": 1
+            },
+            "participantId": 157263
+          }
+        ]
+      }
+    ]
+  }
+}
