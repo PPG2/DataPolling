@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Validation
 {
-    internal interface IValidationCore
+    public interface IValidationCore
     {
     }
 }

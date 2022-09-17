@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Validation
+namespace Core.Models
 {
-    public class ValidationCore : IValidationCore
+    public class Bett
     {
+        public User user { get; set; }
+
+        public Event match { get; set; }
+
+
     }
 }
