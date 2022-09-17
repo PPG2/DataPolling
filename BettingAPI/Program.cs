@@ -1,3 +1,5 @@
+using Core.Validation;
+
 namespace BettingAPI
 {
     public class Program
@@ -12,7 +14,7 @@ namespace BettingAPI
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddScoped<IValidationCore, ValidationCore>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

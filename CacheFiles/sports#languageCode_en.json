@@ -1,0 +1,359 @@
+{
+  "sports": [
+    {
+      "id": 1,
+      "name": "Basketball",
+      "translation": "Basketball"
+    },
+    {
+      "id": 2,
+      "name": "Football",
+      "translation": "Football"
+    },
+    {
+      "id": 4,
+      "name": "Ice Hockey",
+      "translation": "Ice Hockey"
+    },
+    {
+      "id": 6,
+      "name": "Baseball",
+      "translation": "Baseball"
+    },
+    {
+      "id": 7,
+      "name": "Volleyball",
+      "translation": "Volleyball"
+    },
+    {
+      "id": 8,
+      "name": "Futsal",
+      "translation": "Futsal"
+    },
+    {
+      "id": 9,
+      "name": "Handball",
+      "translation": "Handball"
+    },
+    {
+      "id": 10,
+      "name": "American Football",
+      "translation": "American Football"
+    },
+    {
+      "id": 11,
+      "name": "Australian Rules",
+      "translation": "Australian Rules"
+    },
+    {
+      "id": 12,
+      "name": "Rugby League",
+      "translation": "Rugby League"
+    },
+    {
+      "id": 13,
+      "name": "Field Hockey",
+      "translation": "Field Hockey"
+    },
+    {
+      "id": 14,
+      "name": "Formula 1",
+      "translation": "Formula 1"
+    },
+    {
+      "id": 15,
+      "name": "Cycling",
+      "translation": "Cycling"
+    },
+    {
+      "id": 16,
+      "name": "Biathlon",
+      "translation": "Biathlon"
+    },
+    {
+      "id": 17,
+      "name": "Snooker",
+      "translation": "Snooker"
+    },
+    {
+      "id": 18,
+      "name": "Entertainment",
+      "translation": "Entertainment"
+    },
+    {
+      "id": 19,
+      "name": "Politics",
+      "translation": "Politics"
+    },
+    {
+      "id": 20,
+      "name": "Beach Soccer",
+      "translation": "Beach Soccer"
+    },
+    {
+      "id": 21,
+      "name": "Poker",
+      "translation": "Poker"
+    },
+    {
+      "id": 22,
+      "name": "Water Polo",
+      "translation": "Water Polo"
+    },
+    {
+      "id": 23,
+      "name": "Specials",
+      "translation": "Specials"
+    },
+    {
+      "id": 24,
+      "name": "Event of the Day",
+      "translation": "Event of the Day"
+    },
+    {
+      "id": 25,
+      "name": "Curling",
+      "translation": "Curling"
+    },
+    {
+      "id": 27,
+      "name": "Alpine Skiing",
+      "translation": "Alpine Skiing"
+    },
+    {
+      "id": 28,
+      "name": "Cross Country Skiing",
+      "translation": "Cross Country Skiing"
+    },
+    {
+      "id": 29,
+      "name": "Ski Jumping",
+      "translation": "Ski Jumping"
+    },
+    {
+      "id": 30,
+      "name": "Nordic Combined",
+      "translation": "Nordic Combined"
+    },
+    {
+      "id": 31,
+      "name": "Motorsport",
+      "translation": "Motorsport"
+    },
+    {
+      "id": 32,
+      "name": "Darts",
+      "translation": "Darts"
+    },
+    {
+      "id": 33,
+      "name": "Bandy",
+      "translation": "Bandy"
+    },
+    {
+      "id": 34,
+      "name": "Cricket",
+      "translation": "Cricket"
+    },
+    {
+      "id": 35,
+      "name": "Martial Arts",
+      "translation": "Martial Arts"
+    },
+    {
+      "id": 36,
+      "name": "Golf",
+      "translation": "Golf"
+    },
+    {
+      "id": 37,
+      "name": "Chess",
+      "translation": "Chess"
+    },
+    {
+      "id": 38,
+      "name": "Finance",
+      "translation": "Finance"
+    },
+    {
+      "id": 39,
+      "name": "Olympics",
+      "translation": "Olympics"
+    },
+    {
+      "id": 40,
+      "name": "Athletics",
+      "translation": "Athletics"
+    },
+    {
+      "id": 41,
+      "name": "BetGames.TV",
+      "translation": "BetGames.TV"
+    },
+    {
+      "id": 42,
+      "name": "Beach Volleyball",
+      "translation": "Beach Volleyball"
+    },
+    {
+      "id": 43,
+      "name": "Rowing",
+      "translation": "Rowing"
+    },
+    {
+      "id": 44,
+      "name": "Modern Pentathlon",
+      "translation": "Modern Pentathlon"
+    },
+    {
+      "id": 46,
+      "name": "Archery",
+      "translation": "Archery"
+    },
+    {
+      "id": 47,
+      "name": "Aquatics",
+      "translation": "Aquatics"
+    },
+    {
+      "id": 48,
+      "name": "Fencing",
+      "translation": "Fencing"
+    },
+    {
+      "id": 49,
+      "name": "Equestrian",
+      "translation": "Equestrian"
+    },
+    {
+      "id": 50,
+      "name": "Gymnastics",
+      "translation": "Gymnastics"
+    },
+    {
+      "id": 51,
+      "name": "Sailing",
+      "translation": "Sailing"
+    },
+    {
+      "id": 52,
+      "name": "Shooting",
+      "translation": "Shooting"
+    },
+    {
+      "id": 54,
+      "name": "Triathlon",
+      "translation": "Triathlon"
+    },
+    {
+      "id": 55,
+      "name": "Weightlifting",
+      "translation": "Weightlifting"
+    },
+    {
+      "id": 56,
+      "name": "Rugby Union",
+      "translation": "Rugby Union"
+    },
+    {
+      "id": 57,
+      "name": "Boxing",
+      "translation": "Boxing"
+    },
+    {
+      "id": 58,
+      "name": "Speed Skating",
+      "translation": "Speed Skating"
+    },
+    {
+      "id": 59,
+      "name": "E-sports Football",
+      "translation": "E-sports Football"
+    },
+    {
+      "id": 60,
+      "name": "Horse Racing",
+      "translation": "Horse Racing"
+    },
+    {
+      "id": 61,
+      "name": "Figure Skating",
+      "translation": "Figure Skating"
+    },
+    {
+      "id": 63,
+      "name": "Skeleton",
+      "translation": "Skeleton"
+    },
+    {
+      "id": 64,
+      "name": "Bobsleigh",
+      "translation": "Bobsleigh"
+    },
+    {
+      "id": 65,
+      "name": "Freestyle Skiing",
+      "translation": "Freestyle Skiing"
+    },
+    {
+      "id": 66,
+      "name": "Snowboard",
+      "translation": "Snowboard"
+    },
+    {
+      "id": 67,
+      "name": "Floorball",
+      "translation": "Floorball"
+    },
+    {
+      "id": 68,
+      "name": "E-Sports FPS",
+      "translation": "E-Sports FPS"
+    },
+    {
+      "id": 69,
+      "name": "E-Sports MOBA",
+      "translation": "E-Sports MOBA"
+    },
+    {
+      "id": 71,
+      "name": "#PickYourPunt",
+      "translation": "#PickYourPunt"
+    },
+    {
+      "id": 70,
+      "name": "Greyhound Racing",
+      "translation": "Greyhound Racing"
+    },
+    {
+      "id": 73,
+      "name": "Curby",
+      "translation": "Curby"
+    },
+    {
+      "id": 74,
+      "name": "Lacrosse",
+      "translation": "Lacrosse"
+    },
+    {
+      "id": 76,
+      "name": "Custom Bet Sport",
+      "translation": "Custom Bet Sport"
+    },
+    {
+      "id": 184,
+      "name": "Gaelic Football",
+      "translation": "Gaelic Football"
+    },
+    {
+      "id": 183,
+      "name": "UFC/MMA",
+      "translation": "UFC/MMA"
+    },
+    {
+      "id": 62,
+      "name": "Luge",
+      "translation": "Luge"
+    }
+  ]
+}

@@ -27,10 +27,10 @@ namespace DataPolling
                 var countriesString = PollCountries();
                 var countries = JsonConvert.DeserializeObject<CountriesData>(countriesString);
                 
-                var tournamentsString = PollTournaments(sports.Sports.Select(x=> x.Id).ToList());
+                var tournamentsString = PollTournaments(sports.Sports.Select(x=> x.id).ToList());
                 var tournaments = JsonConvert.DeserializeObject<List<Tournament>>(tournamentsString);
 
-                var eventsString = PollEvents(tournaments.Select(x => x.Id).ToList());
+                var eventsString = PollEvents(tournaments.Select(x => x.id).ToList());
                 var events = JsonConvert.DeserializeObject<List<Event>>(eventsString);
 
                 //var marketsString = PollMarkets(events.Select(x => x.Id).ToList());

@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Core.Models
 {
-    public class Market
+    public class Bett
     {
-        public int Id { get; set; }
-    }
+        public User user { get; set; }
 
-    public class MarketsData
-    {
-        public List<Market> Markets { get; set; }
+        public Event match { get; set; }
+
+
     }
 }
