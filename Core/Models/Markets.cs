@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Models
 {
-    internal class Markets
+    public class Markets
     {
        
         public string marketId { get; set; }
@@ -48,5 +48,10 @@ namespace Core.Models
         public int participantId { get; set; }
     }
 
+    public class MarketsData
+    {
+        public List<Markets> Markets { get; set; }
+    }
+    
 }
 
