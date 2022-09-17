@@ -15,10 +15,10 @@ namespace BettingAPI.Controllers
             _validationCore = serviceProvider.GetService<IValidationCore>();
         }
         
-        public bool Validate()
-        {
-            return View();
-        }
+        //public bool Validate()
+        //{
+        //    return View();
+        //}
 
     }
 }
