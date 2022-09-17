@@ -17,4 +17,9 @@ namespace Core.Models
         public int live { get; set; }
         public object meetingDate { get; set; }
     }
+
+    public class TournamentsData
+    {
+        public List<Tournament> Tournaments { get; set; }
+    }
 }

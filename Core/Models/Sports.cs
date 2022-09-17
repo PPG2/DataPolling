@@ -4,3 +4,8 @@
     public string name { get; set; }
     public string translation { get; set; }
 }
+
+public class SportsData
+{
+    public List<Sport> Sports { get; set; }
+}
