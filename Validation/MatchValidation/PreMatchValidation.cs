@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Interfaces
+namespace Validation.MatchValidation
 {
-    internal class Validation
+    internal class PreMatchValidation
     {
     }
 }

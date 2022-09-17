@@ -1,4 +1,6 @@
+using Core.Interfaces;
 using Core.Validation;
+using Validation;
 
 namespace BettingAPI
 {
@@ -15,6 +17,8 @@ namespace BettingAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IValidationCore, ValidationCore>();
+            builder.Services.AddScoped<IprocessVaidation, ProcessVaidation>();
+            builder.Services.AddScoped<IFactoryCreator, FactoryCreator>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

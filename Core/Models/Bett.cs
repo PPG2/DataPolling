@@ -12,6 +12,8 @@ namespace Core.Models
 
         public Event match { get; set; }
 
+        public Sport Sport { get; set; }
+
 
     }
 }

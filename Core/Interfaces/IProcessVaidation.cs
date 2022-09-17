@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Validation
+namespace Core.Interfaces
 {
-    public interface IValidationCore
+    public interface IprocessVaidation
     {
-        public bool IsValidateSuccesfuly(Bett bett);
+
+        public bool DoValidation(Bett bett);
     }
 }

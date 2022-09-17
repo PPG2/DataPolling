@@ -1,4 +1,5 @@
-﻿using Core.Validation;
+﻿using Core.Models;
+using Core.Validation;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BettingAPI.Controllers
@@ -15,9 +16,9 @@ namespace BettingAPI.Controllers
             _validationCore = serviceProvider.GetService<IValidationCore>();
         }
         
-        public bool Validate()
+        public bool Validate(Bett bett)
         {
-            return View();
+            return _validationCore.IsValidateSuccesfuly(bett);
         }
 
     }
