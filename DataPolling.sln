@@ -3,17 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPolling", "DataPolling\DataPolling.csproj", "{E1B2E5B1-8CEC-491C-BF51-35CA9C9548DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataPolling", "DataPolling\DataPolling.csproj", "{E1B2E5B1-8CEC-491C-BF51-35CA9C9548DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingAPI", "BettingAPI\BettingAPI.csproj", "{A54B932B-C48F-41E2-B119-56D11394F17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BettingAPI", "BettingAPI\BettingAPI.csproj", "{A54B932B-C48F-41E2-B119-56D11394F17F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3A214069-2896-4AEF-B353-252B20DF925E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{3A214069-2896-4AEF-B353-252B20DF925E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C27236A9-F9D5-45DE-A5EF-C2295754B860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C27236A9-F9D5-45DE-A5EF-C2295754B860}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3A214069-2896-4AEF-B353-252B20DF925E} = {3A214069-2896-4AEF-B353-252B20DF925E}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{EC15E86B-DA82-45EE-B598-324291D51558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{EC15E86B-DA82-45EE-B598-324291D51558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{A6D883B4-1276-4959-9E63-5D5C57FDFAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validation", "Validation\Validation.csproj", "{A6D883B4-1276-4959-9E63-5D5C57FDFAC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

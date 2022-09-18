@@ -43,4 +43,9 @@
         public string jockeyName { get; set; }
         public string draw { get; set; }
     }
+
+    public class EventsData
+    {
+        public List<Event> Events { get; set; }
+    }
 }

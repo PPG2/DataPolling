@@ -21,5 +21,10 @@ namespace BettingAPI.Controllers
             return _validationCore.IsValidateSuccesfuly(bett);
         }
 
+        //public bool Validate()
+        //{
+        //    return View();
+        //}
+
     }
 }

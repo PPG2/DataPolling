@@ -8,8 +8,13 @@ namespace Core.Models
 {
     public class Country
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string translation { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Translation { get; set; }
+    }
+
+    public class CountriesData
+    {
+        public List<Country> Countries { get; set; }
     }
 }
